@@ -1,5 +1,4 @@
 # Sebastian Portfolio Site
-## How to run:
 ```bash
   npm i
 ```
